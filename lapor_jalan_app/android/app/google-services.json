@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249687037821",
+    "project_id": "jalanrusak-7d1f0",
+    "storage_bucket": "jalanrusak-7d1f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249687037821:android:f19e3e2806055e93539e14",
+        "android_client_info": {
+          "package_name": "com.example.lapor_jalan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLxLrkW3G9umnrUzfFEfOwQqHiQd--KBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
